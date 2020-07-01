@@ -1,0 +1,19 @@
+C:\Users\Dell\source\repos\PTB2_LuuHoangTu\PTB2_LuuHoangTu\bin\Debug\PTB2_LuuHoangTu.exe.config
+C:\Users\Dell\source\repos\PTB2_LuuHoangTu\PTB2_LuuHoangTu\bin\Debug\PTB2_LuuHoangTu.exe
+C:\Users\Dell\source\repos\PTB2_LuuHoangTu\PTB2_LuuHoangTu\bin\Debug\PTB2_LuuHoangTu.pdb
+C:\Users\Dell\source\repos\PTB2_LuuHoangTu\PTB2_LuuHoangTu\obj\Debug\PTB2_LuuHoangTu.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\PTB2_LuuHoangTu\PTB2_LuuHoangTu\obj\Debug\PTB2_LuuHoangTu.Form1.resources
+C:\Users\Dell\source\repos\PTB2_LuuHoangTu\PTB2_LuuHoangTu\obj\Debug\PTB2_LuuHoangTu.Properties.Resources.resources
+C:\Users\Dell\source\repos\PTB2_LuuHoangTu\PTB2_LuuHoangTu\obj\Debug\PTB2_LuuHoangTu.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\PTB2_LuuHoangTu\PTB2_LuuHoangTu\obj\Debug\PTB2_LuuHoangTu.exe
+C:\Users\Dell\source\repos\PTB2_LuuHoangTu\PTB2_LuuHoangTu\obj\Debug\PTB2_LuuHoangTu.pdb
+D:\Phan Mem\PTB2_LuuHoangTu\PTB2_LuuHoangTu\PTB2_LuuHoangTu\bin\Debug\PTB2_LuuHoangTu.exe.config
+D:\Phan Mem\PTB2_LuuHoangTu\PTB2_LuuHoangTu\PTB2_LuuHoangTu\bin\Debug\PTB2_LuuHoangTu.exe
+D:\Phan Mem\PTB2_LuuHoangTu\PTB2_LuuHoangTu\PTB2_LuuHoangTu\bin\Debug\PTB2_LuuHoangTu.pdb
+D:\Phan Mem\PTB2_LuuHoangTu\PTB2_LuuHoangTu\PTB2_LuuHoangTu\obj\Debug\PTB2_LuuHoangTu.csprojAssemblyReference.cache
+D:\Phan Mem\PTB2_LuuHoangTu\PTB2_LuuHoangTu\PTB2_LuuHoangTu\obj\Debug\PTB2_LuuHoangTu.Form1.resources
+D:\Phan Mem\PTB2_LuuHoangTu\PTB2_LuuHoangTu\PTB2_LuuHoangTu\obj\Debug\PTB2_LuuHoangTu.Properties.Resources.resources
+D:\Phan Mem\PTB2_LuuHoangTu\PTB2_LuuHoangTu\PTB2_LuuHoangTu\obj\Debug\PTB2_LuuHoangTu.csproj.GenerateResource.cache
+D:\Phan Mem\PTB2_LuuHoangTu\PTB2_LuuHoangTu\PTB2_LuuHoangTu\obj\Debug\PTB2_LuuHoangTu.csproj.CoreCompileInputs.cache
+D:\Phan Mem\PTB2_LuuHoangTu\PTB2_LuuHoangTu\PTB2_LuuHoangTu\obj\Debug\PTB2_LuuHoangTu.exe
+D:\Phan Mem\PTB2_LuuHoangTu\PTB2_LuuHoangTu\PTB2_LuuHoangTu\obj\Debug\PTB2_LuuHoangTu.pdb
